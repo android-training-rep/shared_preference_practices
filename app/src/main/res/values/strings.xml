@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferencePractices</string>
+    <string name="to_sp">To Shared Preference</string>
+    <string name="submit">Submit</string>
+</resources>
